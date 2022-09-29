@@ -1,8 +1,8 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By Frons
+› Base Frons
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : Frons */
 
 //=================================================//
 require('./hwkal')
@@ -458,7 +458,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOT HW MODS WA",
+"name": "HALO 👋 SAYA BOT Frons",
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
