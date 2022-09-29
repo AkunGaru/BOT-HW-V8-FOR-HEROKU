@@ -1,8 +1,8 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By Frons
+› Base Frons
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : Frons */
 
 require('./hwkal')
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
@@ -164,7 +164,7 @@ fileName: `HELLO 👋 @${num.split("@")[0]}`,
 fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
-title: `Jangan Lupa Tersenyum ☺️`,
+title: `Jangan Lupa Tersenyum 😄`,
 body: `SUBSCRIBE HW MODS WA`,
 mediaType:2,
 thumbnail: buffer,
@@ -185,8 +185,8 @@ fileName: `BYE 👋 @${num.split("@")[0]}`,
 fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
-title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+title: `Jangan Lupa Tersenyum 😄`,
+body: `SUBSCRIBE FRONS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
